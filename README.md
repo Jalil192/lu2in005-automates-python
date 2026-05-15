@@ -4,10 +4,9 @@ Projet universitaire réalisé dans le cadre de l’UE **LU2IN005 : Mathématiqu
 
 L’objectif du projet est de programmer en Python plusieurs algorithmes classiques sur les automates finis, en utilisant les structures de données fournies dans le cadre du TME.
 
-## Binôme
-
+Réalisé par :
 - Jalil Keddara
-- Walid Kaouane
+
 
 ## Présentation du projet
 
